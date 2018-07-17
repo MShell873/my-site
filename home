@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+    <title>Maggie Shell</title>
+    </head>
+    <body>
+      <section id="home">
+        <h1>Maggie Shell</h1>
+        <ul>
+            <li>About</li>
+            <li>Contact</li>
+            <li>Hand-Coded Portfolio</li>
+            <li>Wordpress Work</li>
+        </ul>
+      </section>
+      <section id ="about">
+        <h2>Librarian</h2>
+        <h2>Coder and Web Designer</h2>
+        <h2>UX & Font Lover</h2>
+          <p>Hi, I'm Maggie!  Welcome to my hand-coded home-page. You can see other examples of my coding here.</p>
+          <p>I'm obsessed with information.  I have a Masters in Library and Information Science and worked for years in law libraries, with my focus eventually shifting to knowledge management.  In recent years I’ve learned to code and started using my creative side for web design, my favorite part of which is font pairing decisions.  User Experiene (UX) design ties all of these
+elements together.</p>
+      </section>
+      <footer>
+        <nav>
+          <ul>
+            <li>Home</li>
+            <li>Contact</li>
+            <li>Hand-Coded Portfolio</li>
+            <li>Wordpress Work</li>
+          </ul>
+        </nav>
+      </footer>
+    </body>
+</html>
